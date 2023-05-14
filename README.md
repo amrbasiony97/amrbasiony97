@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/amr-abdelaziz-2b5028189/">
+  <a href="https://www.linkedin.com/in/swe-amr-abdelaziz">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrbasiony97&style=flat-square&color=blue" alt="profile-views"/>
+  <img src="https://komarev.com/ghpvc/?username=swe-amr-abdelaziz&style=flat-square&color=blue" alt="profile-views"/>
 </div>
 
 <h1 align="center">
@@ -33,7 +33,7 @@ I am an Open Source Applications Developer <img src="https://media.giphy.com/med
 
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amr-abdelaziz-2b5028189)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swe-amr-abdelaziz)
 
 ---
 
@@ -67,11 +67,11 @@ I am an Open Source Applications Developer <img src="https://media.giphy.com/med
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amrbasiony97&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swe-amr-abdelaziz&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrbasiony97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swe-amr-abdelaziz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**amrbasiony97/amrbasiony97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**swe-amr-abdelaziz/swe-amr-abdelaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
